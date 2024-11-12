@@ -4,3 +4,4 @@
    LAB-4 https://github.com/SrijaKaredha/AIML-5/blob/6bb7e58e472708ed8b0a3a166b3f4d0c9b094598/AIML_LAB_4.ipynb
    LAB=5 https://github.com/SrijaKaredha/AIML-5/blob/dff3438e273a167db9a9f205cfd808dd2126b066/AIML_LAB_5.ipynb
    LAB-6 https://github.com/SrijaKaredha/AIML-5/blob/a1efba4c80753935671d94ba120173d15aac7bfd/Lab_06_Aiml.ipynb
+   LAB-8 https://github.com/SrijaKaredha/AIML-5/blob/96706cb2c3995acbf068d592db6dbc3da142719c/LAB_8.ipynb
