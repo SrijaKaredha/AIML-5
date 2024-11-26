@@ -17,4 +17,5 @@ LAB-9 https://github.com/SrijaKaredha/AIML-5/blob/291baa04c90ef1ca790b2943098796
 LAB-10 https://github.com/SrijaKaredha/AIML-5/blob/00d49df621036f93d3737ea2548cb00211791ca7/LAB_10.ipynb
 
 LAB EXAM https://github.com/SrijaKaredha/AIML-5/blob/ed1a779964231951898f0768e316aab5aa4ef7b7/LAB_EXAM.ipynb
+
 LAB EXAM MAIN 26/11/24 https://github.com/SrijaKaredha/AIML-5/blob/06b05642b14b8bb3e1afb0152d5fa8bf385c63e6/2303A54023__16_48.ipynb
